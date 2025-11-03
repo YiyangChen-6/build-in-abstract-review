@@ -1,5 +1,6 @@
 
-   For each element of the given list, produce the sum obtained by counting
+##
+For each element of the given list, produce the sum obtained by counting
    up from 1 until you reach the element. For example, given (list 1 3 6),
    the function should return (list 1 6 21), which is
 
